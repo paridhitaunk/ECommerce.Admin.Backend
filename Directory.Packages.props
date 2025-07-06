@@ -9,14 +9,14 @@
     <PackageVersion Include="Ardalis.SmartEnum" Version="8.2.0" />
     <PackageVersion Include="Ardalis.Specification" Version="9.2.0" />
     <PackageVersion Include="Ardalis.Specification.EntityFrameworkCore" Version="9.2.0" />
-    <PackageVersion Include="Azure.Identity" Version="1.13.1" />
+    <PackageVersion Include="Azure.Identity" Version="1.14.1" />
     <PackageVersion Include="coverlet.collector" Version="6.0.4" />
     <PackageVersion Include="FastEndpoints" Version="6.2.0" />
     <PackageVersion Include="FastEndpoints.ApiExplorer" Version="2.2.0" />
     <PackageVersion Include="FastEndpoints.Swagger" Version="6.2.0" />
     <PackageVersion Include="FastEndpoints.Swagger.Swashbuckle" Version="2.2.0" />
     <PackageVersion Include="MailKit" Version="4.13.0" />
-    <PackageVersion Include="MediatR" Version="12.5.0" />
+    <PackageVersion Include="MediatR" Version="13.0.0" />
     <PackageVersion Include="Microsoft.AspNetCore.Mvc.Testing" Version="9.0.6" />
     <PackageVersion Include="Microsoft.EntityFrameworkCore.InMemory" Version="9.0.6" />
     <PackageVersion Include="Microsoft.EntityFrameworkCore.Relational" Version="9.0.6" />
@@ -37,9 +37,9 @@
     <PackageVersion Include="Swashbuckle.AspNetCore" Version="6.5.0" />
     <PackageVersion Include="Swashbuckle.AspNetCore.Annotations" Version="6.5.0" />
     <PackageVersion Include="xunit" Version="2.9.3" />
-    <PackageVersion Include="xunit.runner.visualstudio" Version="3.0.0-pre.49" />
+    <PackageVersion Include="xunit.runner.visualstudio" Version="3.1.1" />
     <!--#if (aspire) -->
-    <PackageVersion Include="Aspire.Hosting.AppHost" Version="9.0.0" />
+    <PackageVersion Include="Aspire.Hosting.AppHost" Version="9.3.1" />
     <PackageVersion Include="Microsoft.Extensions.Http.Resilience" Version="9.6.0" />
     <PackageVersion Include="Microsoft.Extensions.ServiceDiscovery" Version="9.3.1" />
     <PackageVersion Include="OpenTelemetry.Exporter.OpenTelemetryProtocol" Version="1.12.0" />
@@ -47,7 +47,7 @@
     <PackageVersion Include="OpenTelemetry.Instrumentation.AspNetCore" Version="1.12.0" />
     <PackageVersion Include="OpenTelemetry.Instrumentation.Http" Version="1.12.0" />
     <PackageVersion Include="OpenTelemetry.Instrumentation.Runtime" Version="1.12.0" />
-    <PackageVersion Include="Aspire.Hosting.Testing" Version="9.0.0" />
+    <PackageVersion Include="Aspire.Hosting.Testing" Version="9.3.1" />
     <!--#endif -->
   </ItemGroup>
 </Project>
